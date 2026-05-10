@@ -1,6 +1,6 @@
-package com.kmateyev.url.shortener.repository;
+package com.kmateyev.url.shortener.repository.url;
 
-import com.kmateyev.url.shortener.entity.UrlMapping;
+import com.kmateyev.url.shortener.entity.url.UrlMapping;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

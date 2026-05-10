@@ -1,4 +1,4 @@
-package com.kmateyev.url.shortener.entity;
+package com.kmateyev.url.shortener.entity.url;
 
 import jakarta.persistence.*;
 import lombok.Getter;
